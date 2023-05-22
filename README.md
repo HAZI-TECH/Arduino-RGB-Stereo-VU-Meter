@@ -1,4 +1,4 @@
-DIY RGB Stereo VU Meter
+DIY Arduino RGB Stereo VU Meter
 ==============
 
 Introduction
